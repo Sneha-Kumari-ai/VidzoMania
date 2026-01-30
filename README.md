@@ -1,6 +1,6 @@
-# PoPo - Podcast Studio
+# Vidzo Mania
 
-PoPo is a comprehensive podcasting platform designed to streamline the recording and editing process. It features real-time video capabilities and collaborative tools to help creators produce high-quality content with ease.
+Vidzo Mania is a comprehensive podcasting platform designed to streamline the recording and editing process. It features real-time video capabilities and collaborative tools to help creators produce high-quality content with ease.
 
 ## Features
 
@@ -27,8 +27,8 @@ The project is organized into two main distinct parts:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayushverse/PoPo.git
-   cd PoPo
+   git clone https://github.com/Sneha-Kumari-ai/VidzoMania.git
+   cd VidzoMania
    ```
 
 2. **Frontend Setup:**
